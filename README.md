@@ -1,9 +1,6 @@
 ## Hi there 👋,
 My name is Sameeya and I am an undergrad student!
 
-
-**sameeyaa/sameeyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some things to know :) :
 - 🔭 I’m currently working on a Data Analyst Pathway and am familiarising myself with Python.
 - 🌱 I’m currently learning the Fundamentals of Programming and how different programming techniques work!
@@ -12,4 +9,9 @@ Here are some things to know :) :
 - 📫 How to reach me: sameeya005@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I support Manchester United!
+
+
+<!--
+
+**sameeyaa/sameeyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
