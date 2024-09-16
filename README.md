@@ -1,4 +1,5 @@
-## Hi there 👋, My name is Sameeya and I am a undergrad student!
+## Hi there 👋,
+My name is Sameeya and I am an undergrad student!
 
 
 **sameeyaa/sameeyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
